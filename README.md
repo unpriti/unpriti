@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Fakultas di Universitas Pramita Indonesia, Kabta🌟.</h3>
+<h1 align="center">Hi Semua 👋</h1>
+<h3 align="center">Saya Fakultas di Universitas Pramita Indonesia, Kabta🌟.</h3>
 
 <br>
 
@@ -8,6 +8,7 @@
   </p>
 
 <br>
+
 
 <p><img align="right" src="https://github.com/unpriti/unpriti/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
@@ -28,5 +29,3 @@
     alt="unpriti" /></p>
 
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unpriti&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="unpriti" /></p>
